@@ -1,0 +1,33 @@
+body{
+     font-family: 'Poppins', sans-serif;
+     margin: 0%;
+     padding: 0%;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: rgb(247, 112, 2);
+}
+.hire-me{
+    background-color: rgb(247, 112, 2);
+    color: aliceblue;
+    padding: 10px 50px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400px;
+}
+.section-1{
+    display: flex;
+    background: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 250px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 6%;
+}
+.half-width img{
+    width: 80%;
+}
